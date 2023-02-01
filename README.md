@@ -15,6 +15,6 @@ Instructions:
 
 Attitional tutorial video:
 
-https://youtu.be/e2Fc_9S8XUc
+[![GD Song Replace Tutorial](https://img.youtube.com/vi/e2Fc_9S8XUc/0.jpg)](https://www.youtube.com/watch?v=e2Fc_9S8XUc "GD Song Replace Tutorial")
 
 If you have any problems, submit it in the "Issues" tab.
